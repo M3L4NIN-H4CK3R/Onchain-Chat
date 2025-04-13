@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Onchain support chat allows users to seek assistance with various issues, including verification status, account-related questions, and inquiries about Visa card. If verification takes longer than 3 business days, users are advised to contact support through the in-app chat. For Visa card-related issues, users can also email support@on-chainwallets.com. View your account information and settings here.</p>
           </div>
         `
         break
