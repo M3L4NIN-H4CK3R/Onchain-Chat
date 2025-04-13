@@ -1,0 +1,19 @@
+{
+  "name": "Melanin",
+  "version": "1.0.0",
+  "description": "Chat Project",
+  "main": "system.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+   "dependencies": {
+    "express": "latest",
+    "path": "latest",
+    "fs": "latest",
+    "crypto": "latest",
+    "multer": "latest",
+    "uuid": "latest"
+  },
+  "author": "Melanin",
+  "license": "MIT"
+}
